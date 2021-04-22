@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\Twygen\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Twygen\\.nuget\\packages"
-    ]
-  }
-}
